@@ -38,6 +38,11 @@
             <groupId>com.freshworks.boot</groupId>
             <artifactId>freshworks-boot-kafka</artifactId>
         </dependency>
+        <dependency>
+            <groupId>com.freshworks.boot</groupId>
+            <artifactId>freshworks-boot-central-kafka-sdk</artifactId>
+            <version>3.3.0</version>
+        </dependency>
     </dependencies>
 
     <build>
